@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\acoustic\strings copy"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[0.3 2.3 5.3]"
+	"$phongalbedotint" "1"
+	"$surfaceprop" "metal"
+}
