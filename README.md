@@ -1,0 +1,3 @@
+# garrysmodturkcegitar
+Editleyerek Kullanabilirsiniz
+
